@@ -1,0 +1,7 @@
+{
+"employees": [
+{ "name":"Bill" , "sex":"male" },
+{ "name":"George" , "sex":"male" },
+{ "name":"Thomas" , "sex":"male" }
+]
+}
